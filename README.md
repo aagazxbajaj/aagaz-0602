@@ -47,7 +47,7 @@ I’m a results-driven full stack developer with hands-on experience in building
 ✅ Build clean, modular, scalable backend code using **Express + Mongoose**  
 ✅ Deploy apps using **Render, Netlify, or Vercel**  
 ✅ Apply **Bootstrap or TailwindCSS** for responsive frontend UI  
-✅ Strong understanding of **DSA**, recursion, and **Binary Search techniques**  
+✅ Strong understanding of **DSA**  
 
 ---
 
