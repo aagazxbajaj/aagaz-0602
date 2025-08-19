@@ -8,6 +8,8 @@
 I’m a results-driven full stack developer with hands-on experience in building scalable web applications using the **MERN stack** and a strong foundation in **Java** and **Data Structure**. I’ve engineered full-fledged projects like:
 
 - 🌍 **[Wanderlust](https://github.com/aagazxbajaj/wander-lust)** – A dynamic travel listing web app with user authentication, cloud image uploads (Cloudinary + Multer), and CRUD operations using MongoDB.
+- - 🌦️ **[Weather API]** – A weather forecast web app built with **React**, fetching real-time weather data from an external API and displaying results in a clean, responsive UI.
+
 
 🔒 Experienced in **JWT-based authentication**, **MongoDB Validations**, and backend tools like **Postman**, **Multer**, **Mongoose**, and **Cloudinary**.
 
