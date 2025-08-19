@@ -54,4 +54,4 @@ I’m a results-driven full stack developer with hands-on experience in building
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aagazxbajaj)
-[![Email](https://img.shields.io/badge/-rydhamcheetu4@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mail to:aagzbajaj0602@gmail.com)
+[![Email](https://img.shields.io/badge/-aagazbajaj0602@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:aagzbajaj0602@gmail.com)
