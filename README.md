@@ -11,7 +11,7 @@ I’m a results-driven full stack developer with hands-on experience in building
 
 🔒 Experienced in **JWT-based authentication**, **MongoDB Validations**, and backend tools like **Postman**, **Multer**, **Mongoose**, and **Cloudinary**.
 
-📫 Reach me: **rydhamcheetu4@gmail.com**
+📫 Reach me: **aagazbajaj0602@gmail.com**
 
 ---
 
